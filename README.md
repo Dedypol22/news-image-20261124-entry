@@ -1,5 +1,6 @@
 # Tuesday 24 November 2026 — 35 Dated Stories, 9 Regions, 14 Fields, 13 Vector Scenes, UTC Timeline & Date-Check Audit
 
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 [![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124/Dedypol22/news-image-20261124-entry/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 [![reward](https://make.fun/badge/news-image-20261124/Dedypol22/news-image-20261124-entry/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
